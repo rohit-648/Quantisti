@@ -14,7 +14,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class Section1 {
+public class Section1Test {
 
 	public void RemindMeLater(WebDriver driver) {
 
